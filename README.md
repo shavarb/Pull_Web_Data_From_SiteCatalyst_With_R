@@ -1,4 +1,4 @@
-Pull_Web_Data_From_SiteCatalyst_With_R
+Pull Web Data From SiteCatalyst With R
 ======================================
 This script will allow you to pull data from Adobe Site Catalyst into R
 
